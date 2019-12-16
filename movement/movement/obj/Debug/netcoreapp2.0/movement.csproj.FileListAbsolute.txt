@@ -1,0 +1,11 @@
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\movement\movement\bin\Debug\netcoreapp2.0\movement.deps.json
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\movement\movement\bin\Debug\netcoreapp2.0\movement.runtimeconfig.json
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\movement\movement\bin\Debug\netcoreapp2.0\movement.runtimeconfig.dev.json
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\movement\movement\bin\Debug\netcoreapp2.0\movement.dll
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\movement\movement\bin\Debug\netcoreapp2.0\movement.pdb
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\movement\movement\obj\Debug\netcoreapp2.0\movement.csprojAssemblyReference.cache
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\movement\movement\obj\Debug\netcoreapp2.0\movement.csproj.CoreCompileInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\movement\movement\obj\Debug\netcoreapp2.0\movement.AssemblyInfoInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\movement\movement\obj\Debug\netcoreapp2.0\movement.AssemblyInfo.cs
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\movement\movement\obj\Debug\netcoreapp2.0\movement.dll
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\movement\movement\obj\Debug\netcoreapp2.0\movement.pdb
