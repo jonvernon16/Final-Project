@@ -1,0 +1,11 @@
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\whole game\whole game\bin\Debug\netcoreapp2.0\whole game.deps.json
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\whole game\whole game\bin\Debug\netcoreapp2.0\whole game.runtimeconfig.json
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\whole game\whole game\bin\Debug\netcoreapp2.0\whole game.runtimeconfig.dev.json
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\whole game\whole game\bin\Debug\netcoreapp2.0\whole game.dll
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\whole game\whole game\bin\Debug\netcoreapp2.0\whole game.pdb
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\whole game\whole game\obj\Debug\netcoreapp2.0\whole game.csprojAssemblyReference.cache
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\whole game\whole game\obj\Debug\netcoreapp2.0\whole game.csproj.CoreCompileInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\whole game\whole game\obj\Debug\netcoreapp2.0\whole game.AssemblyInfoInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\whole game\whole game\obj\Debug\netcoreapp2.0\whole game.AssemblyInfo.cs
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\whole game\whole game\obj\Debug\netcoreapp2.0\whole game.dll
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\whole game\whole game\obj\Debug\netcoreapp2.0\whole game.pdb
