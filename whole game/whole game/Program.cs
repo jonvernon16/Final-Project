@@ -25,11 +25,13 @@ namespace whole_game
             {
                 string readKey;
                 readKey = Convert.ToString(Console.ReadKey(true));
-                if (readKey == "w")
+                do
                 {
-                    Console.WriteLine("Forward");
-                }
-
+                    if (readKey == "w")
+                    {
+                        Console.WriteLine("Forward");
+                    }
+                } while (readKey == "w");
                 
             }
 
