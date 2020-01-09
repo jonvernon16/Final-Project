@@ -1,0 +1,11 @@
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\interactions\interactions\bin\Debug\netcoreapp2.0\interactions.deps.json
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\interactions\interactions\bin\Debug\netcoreapp2.0\interactions.runtimeconfig.json
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\interactions\interactions\bin\Debug\netcoreapp2.0\interactions.runtimeconfig.dev.json
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\interactions\interactions\bin\Debug\netcoreapp2.0\interactions.dll
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\interactions\interactions\bin\Debug\netcoreapp2.0\interactions.pdb
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\interactions\interactions\obj\Debug\netcoreapp2.0\interactions.csprojAssemblyReference.cache
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\interactions\interactions\obj\Debug\netcoreapp2.0\interactions.csproj.CoreCompileInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\interactions\interactions\obj\Debug\netcoreapp2.0\interactions.AssemblyInfoInputs.cache
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\interactions\interactions\obj\Debug\netcoreapp2.0\interactions.AssemblyInfo.cs
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\interactions\interactions\obj\Debug\netcoreapp2.0\interactions.dll
+C:\Users\jv145104\Desktop\C# Projects\Final-Project\interactions\interactions\obj\Debug\netcoreapp2.0\interactions.pdb
