@@ -13,7 +13,7 @@ namespace interactions
             bool gameOn = true; 
 
             string userEntry;
-            string objectEntry;
+            string objectEntry = null;
 
             while (gameOn == true)
             {
@@ -23,14 +23,16 @@ namespace interactions
                 { 
                     Console.WriteLine("You picked up the ball.");
                     ball = true;
+
+                    Console.WriteLine("After you pick up the ball a door seems to appear out of the haze in front of you\nWhat will you do? ");
+                    userEntry = Console.ReadLine();
+
                 }
                 else if (userEntry == "no")
                 {
                     Console.WriteLine("You ignored the ball.");
                 }
-                Console.WriteLine("After you pick up the ball a door seems to appear out of the haze in front of you\n What will you do? ");
-                userEntry = Console.ReadLine();
-
+                
 
                 checkInventory(userEntry, axe, ball, knife);
                 inspect(userEntry, objectEntry);

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jv145104\\Desktop\\C# Projects\\Final-Project\\interactions\\interactions\\interactions.csproj",
+      "projectUniqueName": "C:\\Users\\jv145104\\Desktop\\c#\\Final-Project\\interactions\\interactions\\interactions.csproj",
       "projectName": "interactions",
-      "projectPath": "C:\\Users\\jv145104\\Desktop\\C# Projects\\Final-Project\\interactions\\interactions\\interactions.csproj",
+      "projectPath": "C:\\Users\\jv145104\\Desktop\\c#\\Final-Project\\interactions\\interactions\\interactions.csproj",
       "packagesPath": "C:\\Users\\jv145104\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jv145104\\Desktop\\C# Projects\\Final-Project\\interactions\\interactions\\obj\\",
+      "outputPath": "C:\\Users\\jv145104\\Desktop\\c#\\Final-Project\\interactions\\interactions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
